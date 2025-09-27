@@ -1,5 +1,5 @@
 [
-  {"task": "Python", "goal_minutes": 90},
-  {"task": "SQL", "goal_minutes": 45},
-  {"task": "Italien", "goal_minutes": 60}
+  {"task": "Python", "goal_minutes": 60},
+  {"task": "SQL", "goal_minutes": 30},
+  {"task": "Italien", "goal_minutes": 20}
 ]
